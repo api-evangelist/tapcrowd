@@ -1,0 +1,65 @@
+{
+    "name": "TapCrowd",
+    "description": "Mobile Event App Solution. Create, manage & launch great event apps that engage your audience. Apps for Corporate events, conference apps & associations.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1235-tapcrowd.jpg",
+    "tags": [
+        "applications",
+        "elearning",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tapcrowd\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TapCrowd",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1235-tapcrowd.jpg",
+            "humanURL": "http:\/\/tapcrowd.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tapcrowd-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tapcrowd-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/tapcrowd.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/tapcrowd.com\/feed\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.tapcrowd.com\/news.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tapcrowd"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tapcrowd"
+        },
+        {
+            "type": "Email",
+            "url": "hello@tapcrowd.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/tapcrowd"
+        }
+    ]
+}
